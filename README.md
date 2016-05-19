@@ -1,2 +1,33 @@
 # testgit
-this is git repository for test
+this is git repository for -- test/learn/index
+
+##1 [中文github-git-cheat-sheet](https://services.github.com/kit/downloads/cn/github-git-cheat-sheet.html)
+##2 github 文档/评论语法使用 from:[help](https://help.github.com/categories/writing-on-github)
+* *斜体*
+* **粗体**
+* ***粗斜体***
+* [travelerlife/testgit链接] (/travelerlife/testgit)
+* ![图片](https://github.com/apple-touch-icon.png)
+* `this is oneline codedddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd;`
+* @travelerlife
+* :v:
+
+travelerlife/testgit#1
+
+```java
+this 
+  is 
+    block 
+      code
+```
+> this is quote
+
+- [x] this
+- [ ] is
+- [ ] task
+- [ ] list
+
+|table | head |
+|---- | --- |
+|cell | cell |
+|cell | cell |
