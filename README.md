@@ -6,9 +6,9 @@ this is git repository for -- test/learn/index
 * *斜体*
 * **粗体**
 * ***粗斜体***
-* [travelerlife/testgit链接] (/travelerlife/testgit)
+* [该仓库链接] (/travelerlife/learngit)
 * ![图片](https://github.com/apple-touch-icon.png)
-* `this is oneline codedddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd;`
+* `this is oneline codedddddddddddddddddddddddddddddddddddddddddddddddddddd;`
 * @travelerlife
 * :v:
 
