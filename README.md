@@ -1,4 +1,4 @@
-# testgit
+# LearnGit
 this is git repository for -- test/learn/index
 
 ##1 [中文github-git-cheat-sheet](https://services.github.com/kit/downloads/cn/github-git-cheat-sheet.html)
